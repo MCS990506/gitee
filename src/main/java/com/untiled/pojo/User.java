@@ -6,5 +6,4 @@ package com.untiled.pojo;
  * @create: 2020-09-15
  **/
 public class User {
-    private String name;
 }

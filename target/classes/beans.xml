@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id="AccountDao" class="com.untiled.dao.impl.AccountDaoImpl"> </bean>
+    <bean id="AccountService" class="com.untiled.service.impl.AccountServiceImpl"> </bean>
+</beans>
